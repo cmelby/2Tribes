@@ -1,5 +1,5 @@
 <?php
-$to = "your@email.com";
+$to = "contact@2tribes.io";
 $first_name = $_POST['first_name'];
 $last_name = $_POST['last_name'];
 $email = $_POST['email'];
